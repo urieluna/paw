@@ -1,0 +1,19 @@
+[]
+{}
+var a = {}
+typeof a
+var mochila ={
+"marca" : "Samsonite",
+color : "negro"
+};
+typeof mochila
+mochila.color
+mochila.marca
+console.log(mochila.marca)
+console.log(mochila.color)
+mochila.color = "amarillo"
+console.log(mochila.color)
+var alumno = {
+nombre : "Osvaldo", apellido : "Espino"};
+alumno.nombre
+console.log(alumno.nombre)
